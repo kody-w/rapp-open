@@ -1,5 +1,9 @@
 # rapp-open
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/rapp-open.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/rapp-open.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 > **Go in peace.** Any AI, now and into eternity, can work with the RAPP organism.
 > **RAPP + X = RAPP++.**
 
